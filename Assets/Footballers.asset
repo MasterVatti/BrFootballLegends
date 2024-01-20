@@ -1,0 +1,298 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6b587efb7b994bf4a82f95faae0a960, type: 3}
+  m_Name: Footballers
+  m_EditorClassIdentifier: 
+  _data:
+  - Image: {fileID: 21300000, guid: 908e8e499e042413cb0d7a0082babf82, type: 3}
+    Title: "Pel\xE9"
+    Text: "Edson Arantes do Nascimento, KBE (October 23, 1940\u2013 December 29,
+      2022), known as Pel\xE9, was a Brazilian retired professional soccer player
+      who played as a forward. He is widely regarded as one of the greatest players
+      of all time. In 1999, he was voted World Player of the Century by the International
+      Federation of Football History & Statistics (IFFHS), was one of the two joint
+      winners of the FIFA Player of the Century award, and was elected Athlete of
+      the Century by the International Olympic Committee. According to the IFFHS,
+      Pel\xE9 is the most successful domestic league goal-scorer in football history
+      scoring 650 goals in 694 League matches, and in total 1281 goals in 1363 games,
+      which is a Guinness World Record. During his playing days, Pel\xE9 was for
+      a period the best-paid athlete in the world. In Brazil, he is hailed as a national
+      hero for his accomplishments in football and for his outspoken support of policies
+      that improve the social conditions of the poor."
+  - Image: {fileID: 21300000, guid: fe24c676b33ef4870be9650e5c9c3bf1, type: 3}
+    Title: Ronaldo
+    Text: "Ronaldo Lu\xEDs Naz\xE1rio de Lima (born 18 September 1976), commonly
+      known as Ronaldo or Ronaldo Naz\xE1rio, is a Brazilian business owner, president
+      of La Liga club Real Valladolid, owner of Brasileiro S\xE9rie B club Cruzeiro
+      and a retired professional footballer who played as a striker. Popularly dubbed
+      O Fen\xF4meno ('The Phenomenon') and also nicknamed R9, he is widely considered
+      as one of the greatest players of all time. As a multi-functional striker who
+      brought a new dimension to the position, Ronaldo has been the influence for
+      a generation of strikers that have followed. His individual accolades include
+      being named FIFA World Player of the Year three times and winning two Ballon
+      d'Or awards."
+  - Image: {fileID: 21300000, guid: c119e07f7771a44abb2b62e97ebdeed1, type: 3}
+    Title: Ronaldinho
+    Text: "Ronaldo de Assis Moreira (born 21 March 1980), commonly known as Ronaldinho
+      Ga\xFAcho (Brazilian Portuguese: [\u0281onaw\u02C8d\u0292\u0129\u0272u ga'u\u0283u])
+      or simply Ronaldinho, is a Brazilian former professional footballer and ambassador
+      for Barcelona. He played mostly as an attacking midfielder, but was also deployed
+      as a forward or a winger. He played the bulk of his career at European clubs
+      Paris Saint-Germain, Barcelona and A.C. Milan as well as playing for the Brazilian
+      national team. Often considered one of the best players of his generation and
+      regarded by many as one of the greatest of all time, Ronaldinho won two FIFA
+      World Player of the Year awards and a Ballon d'Or. He was renowned for his
+      technical skills and creativity; due to his agility, pace and dribbling ability,
+      as well as his use of tricks, feints, overhead kicks, no-look passes and accuracy
+      from free-kicks. Ronaldinho made his career debut for Gr\xEAmio, in 1998. At
+      age 20, he moved to Paris Saint-Germain in France before signing for Barcelona
+      in 2003. "
+  - Image: {fileID: 21300000, guid: 1cb532b0b2ca1497781555c193abb399, type: 3}
+    Title: Rivaldo
+    Text: "Rivaldo V\xEDtor Barbosa Ferreira (born 19 April 1972), known as Rivaldo
+      (Brazilian Portuguese: [\u0281i\u02C8vawdu]), is a Brazilian former professional
+      footballer. He played mainly as an attacking midfielder but also as a second
+      striker. Although predominantly left footed, he was capable of playing on either
+      flank, and was on occasion deployed as a wide midfielder or as a winger.He
+      spent five years with Spanish club Barcelona, where he formed a successful
+      partnership with Patrick Kluivert, and won the 1998 and 1999 Spanish La Liga
+      championship and the 1998 Copa del Rey. With 130 goals for Barcelona he is
+      the club's ninth highest goalscorer. His three goals against Valencia in June
+      2001 which qualified Barcelona for the Champions League, the last goal of which
+      was a last minute 20-yard bicycle kick winner, is often ranked the greatest
+      hat-trick ever.From 1993 and 2003, Rivaldo played 74 matches and scored 35
+      goals for Brazil and is the seventh highest goalscorer."
+  - Image: {fileID: 21300000, guid: 7482e888b6ae84111b3ab744006bd75a, type: 3}
+    Title: Roberto Carlos
+    Text: Roberto Carlos da Silva Rocha (born 10 April 1973), more commonly known
+      simply as Roberto Carlos, is a Brazilian retired professional footballer who
+      now works as a football ambassador. He started his career in Brazil as a forward
+      but spent most of his career as a left back and has been described as the "most
+      offensive-minded left-back in the history of the game". Carlos is also widely
+      considered one of the best left backs in history.At club level, he joined Real
+      Madrid in 1996 where he spent 11 highly successful seasons, playing 584 matches
+      in all competitions and scoring 71 goals. At Real, he won four La Liga titles
+      and the UEFA Champions League three times. In April 2013, he was named by Marca
+      as a member of the "Best Foreign Eleven in Real Madrid's History". In August
+      2012, he announced his retirement from football at the age of 39.Roberto Carlos
+      started playing for the Brazil national team in 1992.
+  - Image: {fileID: 21300000, guid: c077745943168491e88f70f5fe3c5eef, type: 3}
+    Title: Neymar
+    Text: "Neymar da Silva Santos J\xFAnior (born 5 February 1992), commonly known
+      as Neymar Jr. or simply Neymar, is a Brazilian professional footballer who
+      plays as a forward for French club Paris Saint-Germain and the Brazil national
+      team. Considered one of the best players in the world, he is known for his
+      dribbling, finishing, skill, pace, and ability to play with both feet. Neymar
+      came into prominence at an early age at Santos, where he made his professional
+      debut aged 17. He helped the club win two successive Campeonato Paulista championships,
+      a Copa do Brasil, and the 2011 Copa Libertadores, with the latter Santos' first
+      since 1963. Neymar was twice named the South American Footballer of the Year,
+      in 2011 and 2012, and soon relocated to Europe to join Barcelona. As part of
+      Bar\xE7a's attacking trio with Lionel Messi and Luis Su\xE1rez, he won the
+      continental treble of La Liga, the Copa del Rey, and the UEFA Champions League,
+      and came third for the FIFA Ballon d'Or in 2015 for his performances."
+  - Image: {fileID: 21300000, guid: 62b81b62830c943e0ae962596269bc9d, type: 3}
+    Title: "Rom\xE1rio"
+    Text: "Rom\xE1rio de Souza Faria (born 29 January 1966), known simply as Rom\xE1rio
+      (Brazilian Portuguese: [\u0281o\u02C8ma\u027Eiu]), is a Brazilian politician
+      who previously achieved worldwide fame as a professional footballer. A prolific
+      striker renowned for his clinical finishing, he is regarded as one of the greatest
+      players of all time. Rom\xE1rio starred for Brazil in their 1994 FIFA World
+      Cup success, receiving the FIFA Golden Ball as player of the tournament. He
+      was named FIFA World Player of the Year the same year. He came fifth in the
+      FIFA Player of the Century internet poll in 1999, was elected to the FIFA World
+      Cup Dream Team in 2002, and was named in the FIFA 100 list of the world's greatest
+      living players in 2004.At club level, after developing his early career in
+      Brazil, Rom\xE1rio moved to PSV Eindhoven in the Netherlands in 1988. During
+      his five seasons at PSV the club became Eredivisie champions three times, and
+      he scored a total of 165 goals in 167 games. In 1993, he moved to FC Barcelona
+      and became part of Johan Cruyff's \"Dream Team\", forming an exceptional strike
+      partnership with Hristo Stoichkov."
+  - Image: {fileID: 21300000, guid: ae25c80e5c5a84dec97c7a5bb71299b4, type: 3}
+    Title: Cafu
+    Text: "Marcos Evangelista de Morais (born 7 June 1970), known as Cafu [ka\u02C8fu],
+      is a Brazilian former professional footballer who played as a defender. With
+      142 appearances for the Brazil national team, he is the most internationally
+      capped Brazilian player of all time. He represented his nation in four FIFA
+      World Cups between 1994 and 2006, and is the only player to have appeared in
+      three consecutive World Cup finals, winning the 1994 and 2002 editions of the
+      tournament, the latter as his team's captain where he lifted the World Cup
+      trophy. With Brazil, he also took part in four editions of the Copa Am\xE9rica,
+      winning the title twice, in 1997 and 1999; he was also a member of the national
+      side that won the 1997 FIFA Confederations Cup."
+  - Image: {fileID: 21300000, guid: 5e30503ece9ca4eddb0395295342e114, type: 3}
+    Title: Garrincha
+    Text: "Manuel Francisco dos Santos (28 October 1933 \u2013 20 January 1983),
+      nicknamed Man\xE9 Garrincha, best known as simply Garrincha (Portuguese pronunciation:
+      [\u0261a\u02C8\u0281\u0129\u0283\u0250], \"little bird\"), was a Brazilian
+      footballer who played as a right winger. He is widely regarded as one of the
+      greatest dribblers of all time. Garrincha is also widely regarded as a legendary
+      figure in the sport.Garrincha played a vital role in Brazil's 1958 and 1962
+      World Cup victories. In 1962, when Pel\xE9 got injured, Garrincha led Brazil
+      to a World Cup victory with a dominating performance throughout the tournament.
+      He also became the first player to win Golden Ball (Player of the tournament),
+      Golden Boot (Leading Goalscorer) and the World Cup in the same tournament.
+      He was also named in the World Cup All-Star Team's of both 1958 World Cup and
+      1962 World Cup."
+  - Image: {fileID: 21300000, guid: b36ca68c232fa493ebb4f966803e8d21, type: 3}
+    Title: Zico
+    Text: "Arthur Antunes Coimbra (Portuguese pronunciation: [a\u0281\u02C8tu\u0281
+      \u0250\u0303\u02C8t\u0169nis ko\u02C8\u0129b\u027E\u0250], born 3 March 1953
+      in Rio de Janeiro), better known as Zico ([\u02C8ziku]), is a Brazilian coach
+      and former footballer, who played as an attacking midfielder. Often called
+      the \"White Pel\xE9\", he was a creative playmaker, with excellent technical
+      skills, vision, and an eye for goal, who is considered one of the most clinical
+      finishers and best passers ever, as well as one of the greatest players of
+      all time. Arguably the world's best player of the late 1970s and early 80s,
+      he is regarded as one of the best playmakers and free kick specialists in history,
+      able to bend the ball in all directions. In 1999, Zico came eighth in the FIFA
+      Player of the Century grand jury vote, and in 2004 was named in the FIFA 100
+      list of the world's greatest living players."
+  - Image: {fileID: 21300000, guid: d2cca8693b80843ad91d5e8b3918b4d4, type: 3}
+    Title: "Kak\xE1"
+    Text: "Ricardo Izecson dos Santos Leite (Brazilian Portuguese: [hi\u02C8ka\u027Edu
+      i\u02C8z\u025Bks\xF5 du\u02C8s\u0250\u0303tus \u02C8lejt\u0361\u0283i]), born
+      22 April 1982, commonly known as Kak\xE1 (Portuguese: [ka\u02C8ka] (listen))
+      or Ricardo Kak\xE1, is a Brazilian retired professional footballer who played
+      as an attacking midfielder. Owing to his performances at Milan where he was
+      an elite playmaker, Kak\xE1 is widely considered one of the best players of
+      his generation. With success at club and international level, he is one of
+      eight players to have won the FIFA World Cup, the UEFA Champions League and
+      the Ballon d'Or.Kak\xE1 made his professional club debut at age 18 at S\xE3o
+      Paulo in Brazil in 2001. After being named to the Bola de Ouro as the best
+      player in the 2002 Campeonato Brasileiro, he joined Serie A club Milan for
+      a fee of \u20AC8.5 million in 2003. In Italy, Kak\xE1 won a league title and
+      was named the Serie A Footballer of the Year twice. In 2005, Milan finished
+      runners up in the 2005 UEFA Champions League Final with Kak\xE1 as the top
+      assist provider of the tournament, and named the UEFA Club Midfielder of the
+      Year."
+  - Image: {fileID: 21300000, guid: fa362dff19519499a82d64bf017d5d47, type: 3}
+    Title: "S\xF3crates"
+    Text: "S\xF3crates Brasileiro Sampaio de Souza Vieira de Oliveira, MD (19 February
+      1954 \u2013 4 December 2011), simply known as S\xF3crates, was a Brazilian
+      footballer who played as an attacking midfielder. His medical degree and his
+      political awareness, combined with style and quality of his play, earned him
+      the nickname \"Doctor Socrates\". Easily recognizable for his beard and headband,
+      S\xF3crates became the \"symbol of cool for a whole generation of football
+      supporters\". He is considered to be one of the greatest midfielders ever to
+      play the game. In 1983, he was named South American Footballer of the Year.
+      In 2004, he was named by Pel\xE9 in the FIFA 100 list of the world's greatest
+      living players.Socrates played for Brazil for seven years, scoring 22 goals
+      and representing the nation in two World Cups. He captained the team in the
+      1982 FIFA World Cup; playing in midfield alongside Zico, Falc\xE3o and \xC9der,
+      considered one of the greatest Brazilian national teams ever."
+  - Image: {fileID: 21300000, guid: bd8998f424bfa44b4a0e2c67981e068c, type: 3}
+    Title: Jairzinho
+    Text: 'Jair Ventura Filho (born 25 December 1944), better known as Jairzinho,
+      is a retired Brazilian footballer. A quick, skillful, and powerful right winger,
+      known for his finishing ability and eye for goal, he was a member of the legendary
+      Brazilian national team that won the 1970 FIFA World Cup. A versatile forward,
+      he was also capable of playing in a variety of other attacking positions, as
+      a main striker, second striker, or even as an attacking midfielder. Due to
+      the economic and political situation of the time, as well as the Sport Legislation,
+      he played most of his club football in South America where he spent eleven
+      years at Rio de Janeiro club Botafogo. He went on to play in Europe during
+      the final years of his career, a common pattern for South American players
+      until the 1980s, when the economic and political situation changed. Jairzinho
+      replaced his footballing idol Garrincha in both the Botafogo and Brazil teams,
+      and played in three consecutive World Cups: 1966, 1970 and 1974.'
+  - Image: {fileID: 21300000, guid: 62a4f20866ff94882a2a56cb301bc678, type: 3}
+    Title: Carlos Alberto Torres
+    Text: "Carlos Alberto \"Capita\" Torres (17 July 1944 \u2013 25 October 2016),
+      also known as \"O Capit\xE3o do Tri\", was a Brazilian footballer. He is widely
+      regarded as one of the best defenders of all time. He captained the Brazil
+      national team to victory in the 1970 World Cup, scoring the fourth goal in
+      the final, considered one of the greatest goals in the history of the tournament.Carlos
+      Alberto was a member of the World Team of the 20th Century, and in 2004 was
+      named by Pel\xE9 in the FIFA 100 list of the world's greatest living players.
+      He was an inductee to the Brazilian Football Museum Hall of Fame, and was a
+      member of the U.S. National Soccer Hall of Fame. In January 2013, Carlos Alberto
+      was named one of the six Ambassadors of 2014 FIFA World Cup in Brazil, others
+      being Ronaldo, Bebeto, M\xE1rio Zagallo, Amarildo and Marta."
+  - Image: {fileID: 21300000, guid: 38d5f821630c341d3a3b67aea3e0b100, type: 3}
+    Title: Thiago Silva
+    Text: "Thiago Emiliano da Silva (born 22 September 1984) is a Brazilian professional
+      footballer who plays as a centre-back for Premier League club Chelsea and captains
+      the Brazil national team. Silva made his senior international debut for Brazil
+      in 2008, at age 23, and has since earned over 100 caps, including appearing
+      in seven major tournaments. He won a bronze medal in the 2008 Olympics and
+      a silver medal at the 2012 Olympics, and later served as captain as Brazil
+      won the 2013 FIFA Confederations Cup and finished fourth at the 2014 FIFA World
+      Cup. Silva later helped his country win the 2019 Copa Am\xE9rica."
+  - Image: {fileID: 21300000, guid: 619b2050ccdd54de5a212733e9f2ef84, type: 3}
+    Title: Daniel Alves
+    Text: Daniel Alves da Silva (born 6 May 1983) is a Brazilian professional footballer
+      who plays as a right-back for Liga MX side UNAM (nicknamed Pumas) and the Brazil
+      national team. He is the most decorated player in the history of football with
+      over 40 trophies, with also being the second most decorated defender of all
+      time in European competitions with nine European medals, leaving him equal
+      with Paolo Maldini on the all-time list.Before joining Barcelona in 2008, Alves
+      spent a successful six-year spell with Sevilla, winning two UEFA Cups and the
+      Copa del Rey with the Andalusian side.
+  - Image: {fileID: 21300000, guid: 10d3d136305354c34a22161db77a9e15, type: 3}
+    Title: Marcelo Vieira
+    Text: "Marcelo Vieira da Silva J\xFAnior (born 12 May 1988), known as Marcelo,
+      is a Brazilian professional footballer who plays as a left-back for Super League
+      Greece club Olympiacos. Known for his offensive capabilities, trickery, and
+      technical qualities, Marcelo is often regarded as one of the greatest left-backs
+      of all time. He has spent most of his career with Spanish club Real Madrid
+      and is the club's most decorated player, with 25 trophies won."
+  - Image: {fileID: 21300000, guid: d4063f37973134322b540e9cf12cf098, type: 3}
+    Title: Didi
+    Text: "Didi (Portuguese pronunciation: [d\u0292i\u02C8d\u0292i]), popular nickname
+      for Waldyr Pereira (8 October 1928 \u2013 12 May 2001), was a Brazilian footballer
+      who played as a midfielder or as a forward. He played in three FIFA World Cups
+      (1954, 1958, and 1962), winning the latter two and was awarded the Golden Ball,
+      given to the tournament's best player, for his performance at the 1958 competition.
+      An elegant player, Didi is considered to be one of the greatest midfielders
+      in the history of the sport, and was renowned for his range of passing, stamina
+      and technique; he was nicknamed the \"Ethiopian Prince\" throughout his career.
+      A dead-ball specialist, he became famous for inventing the folha seca (dry
+      leaf) free kicks, notably used by modern-day players such as Ronaldinho and
+      Juninho, where the ball would swerve downward unexpectedly at a point resulting
+      in a goal."
+  - Image: {fileID: 21300000, guid: 9ca79d1572a6543df9ee96b03453cfde, type: 3}
+    Title: "Paulo Roberto Falc\xE3o"
+    Text: "Paulo Roberto Falc\xE3o, or simply Falc\xE3o (Portuguese pronunciation:
+      [\u02C8pawlu \u0281o\u02C8b\u025B\u0281tu faw\u02C8k\u0250\u0303w\u0303]; born
+      16 October 1953), is a Brazilian former footballer and football manager. He
+      is widely considered one of the best players in Internacional and Roma history
+      playing also for S\xE3o Paulo, and he is universally considered one of the
+      greatest Brazilian players of all time, especially at his peak in the 1980s.
+      At one stage, he was the world's highest paid footballer. Due to his success
+      and performances with Roma, he earned the nickname \"the eighth King of Rome\"
+      from the fans, and was inducted into the A.S. Roma Hall of Fame in 2013.For
+      the Brazil national team, Falc\xE3o was capped 34 times between February 1976
+      and June 1986. He appeared at the 1982 FIFA World Cup, playing in midfield
+      alongside Zico, S\xF3crates and \xC9der, considered one of the greatest Brazilian
+      national teams ever."
+  - Image: {fileID: 21300000, guid: 0b1e1155cc3044df2b6dda0dde51bbd6, type: 3}
+    Title: Bebeto
+    Text: "Jos\xE9 Roberto Gama de Oliveira (born 16 February 1964), known as Bebeto,
+      is a Brazilian former professional football player who played as a forward.
+      He entered politics in the 2010 Brazilian General Elections and was elected
+      to the Legislative Assembly of Rio de Janeiro representing the Democratic Labour
+      Party. With 39 goals in 75 appearances for Brazil, Bebeto is the sixth highest
+      goalscorer for his national team. He was the top scorer for Brazil at the 1989
+      Copa Am\xE9rica when they won the tournament. At the 1994 FIFA World Cup, he
+      formed a formidable strike partnership with Rom\xE1rio to lead Brazil to a
+      record fourth World Cup title. He also generated headlines at the tournament
+      for his goal celebration where he began rocking an imaginary baby after scoring
+      against the Netherlands; his wife had given birth to their third child just
+      days before. He was also a member of the Brazilian team that won the 1997 FIFA
+      Confederations Cup"
+  - Image: {fileID: 21300000, guid: 437d7f50524dc4f75b39d8fd09aef9eb, type: 3}
+    Title: Alisson
+    Text: Alisson Ramses Becker (born 2 October 1992), commonly known as Alisson,
+      is a Brazilian professional footballer who plays as a goalkeeper for Premier
+      League club Liverpool and the Brazil national team. In 2019, he was named The
+      Best FIFA Goalkeeper and was also the recipient of the inaugural Yashin Trophy.
